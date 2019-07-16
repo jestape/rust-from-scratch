@@ -1,0 +1,1 @@
+/Users/jordiestapecanal/Desktop/rust-from-scratch/section12-test/target/debug/section12_test-b8c55230bf1ce767.dSYM: /Users/jordiestapecanal/Desktop/rust-from-scratch/section12-test/src/lib.rs /Users/jordiestapecanal/Desktop/rust-from-scratch/section12-test/src/main.rs
