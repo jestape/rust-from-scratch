@@ -1,1 +1,0 @@
-/Users/jordiestapecanal/Desktop/rust-from-scratch/minigrep/target/debug/minigrep.dSYM: /Users/jordiestapecanal/Desktop/rust-from-scratch/minigrep/src/lib.rs /Users/jordiestapecanal/Desktop/rust-from-scratch/minigrep/src/main.rs
